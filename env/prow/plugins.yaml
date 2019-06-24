@@ -40,8 +40,6 @@ plugins:
   - size
   - trigger
   - wip
-  - heart
-  - cat
   - override
   dconde-jx-test/environment-davec-test-gitops28-production:
   - config-updater
